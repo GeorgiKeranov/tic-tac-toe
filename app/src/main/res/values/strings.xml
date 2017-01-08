@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">"TicTacToe"</string>
+    <string name="android_win">"You lose"</string>
+    <string name="player_win">"You win"</string>
+    <string name="draw_text">"DRAW"</string>
+    <string name="player_score">"Player : 0"</string>
+    <string name="player1_score">"Player 1 : 0"</string>
+    <string name="player2_score">"Player 2 : 0"</string>
+    <string name="player1_win">"Player 1 Won"</string>
+    <string name="player2_win">"Player 2 Won"</string>
+    <string name="android_score">"Android : 0"</string>
+    <string name="draw_games">"Draws : 0"</string>
+    <string name="but_new">"New Game"</string>
+    <string name="Info">"Info"</string>
+</resources>
