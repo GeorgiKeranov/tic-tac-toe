@@ -7,7 +7,7 @@ This game contains two modes:
   - To play player versus android device.
 
 # Android device moves calculation
-Then next moves are selected by three conditions:
+Moves are selected by three conditions:
   - Check if the android can win.
   - Check if the player can win so the android can stop the player from winning the game.
   - If no one can win selecting random move.
