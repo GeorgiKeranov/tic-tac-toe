@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# TicTacToe
 ![ic_launcher](https://user-images.githubusercontent.com/22518317/129445632-868b78dd-1f5c-4e84-b724-e6d9c48a52bd.png)
 
 Android Tic Tac Toe game also know as marine chess.
